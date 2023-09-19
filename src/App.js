@@ -15,7 +15,7 @@ import Profile from "./pages/profile/Profile";
 import Home from "./pages/home/Home";
 
 function App() {
-  const currentUser = false;
+  const currentUser = true;
 
   const Layout = () => {
     return (
