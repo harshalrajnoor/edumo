@@ -35,8 +35,7 @@ function RightBar() {
 
               <p>
 
-                <span>Harshal Rajnoor </span>
-                changed their cover picture
+              <span>Harshal Rajnoor </span>changed their cover picture
               </p>
             </div>
             <span>1 min ago</span>
@@ -57,8 +56,7 @@ function RightBar() {
 
               <p>
 
-                <span>Harshal Rajnoor </span>
-                changed their cover picture
+                <span>Harshal Rajnoor </span>changed their cover picture
               </p>
             </div>
             <span>1 min ago</span>
@@ -68,8 +66,7 @@ function RightBar() {
               <img src="https://images.pexels.com/photos/15253379/pexels-photo-15253379/free-photo-of-off-road-car-standing-on-a-snowed-side-road.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" />
 
               <p>
-                <span>Harshal Rajnoor </span>
-                changed their cover picture
+                <span>Harshal Rajnoor </span>changed their cover picture
               </p>
             </div>
             <span>1 min ago</span>
